@@ -1,0 +1,68 @@
+Objective:
+Generate a formal Software Requirement Specification (SRS) document based on the provided IEEE/ISO/IEC 29148-2018 template. The SRS document must be comprehensive, detailed, and technically precise, reflecting the information discussed in the attached meeting transcripts.
+
+Instructions:
+1. Analyze the Template:
+    Thoroughly review the SRS document template provided below. Ensure you understand the structure, sections, and the level of detail required for each section.
+2. Review Meeting Transcripts:
+    Carefully analyze the attached meeting transcripts, which will me mentioned after the instructions as dialogues between people from the meeting. Extract all relevant information, including functional and non-functional requirements, user characteristics, constraints, assumptions, and any other details necessary to populate the SRS document.
+3. Generate the SRS Document:
+    Follow the template exactly and populate each section with the information extracted from the meeting transcripts. Use a formal and technical writing style, ensuring clarity, precision, and completeness.
+4. Handling Missing Information:
+    If any required information is not explicitly discussed in the meeting transcripts, clearly indicate this in the relevant section of the SRS document. Use placeholders like "[Information Not Discussed]" or "[To Be Determined]" to highlight gaps.
+5. Structured Format for Requirements:
+	For functional requirements, use the following format:
+        Requirement ID: [FR-XXX]  
+        Description: [Detailed description of the requirement]  
+        Priority: [High/Medium/Low]  
+        Source: [Reference to the meeting transcript or stakeholder input]  
+    For non-functional requirements, use the following format:
+        Requirement ID: [NFR-XXX]  
+        Description: [Detailed description of the requirement]  
+        Priority: [High/Medium/Low]  
+        Source: [Reference to the meeting transcript or technical analysis]  
+6. Appendices and Supporting Information:
+    Include any diagrams, models, or analysis results mentioned in the meeting transcripts. If no supporting information is provided, leave this section blank or note that no additional information is available.
+7. Tone and Style:
+    Maintain a formal, technical tone throughout the document. Avoid informal language or ambiguity. Ensure the document is professional and suitable for stakeholders, developers, and regulatory bodies.
+8. SRS Document Template based on IEEE/ISO/IEC 29148-2018:
+    1. Introduction
+        1.1 Purpose
+            Describe the purpose of the SRS document.
+        1.2 Scope
+            Define the scope of the software system, including what is and is not included.
+        1.3 Definitions, Acronyms, and Abbreviations
+            Provide a glossary of terms, acronyms, and abbreviations used in the document.
+        1.4 References
+            List all referenced documents, standards, or regulations.
+        1.5 Overview
+            Provide a high-level overview of the document structure.
+    2. Overall Description
+        2.1 Product Perspective
+            Describe the system’s relationship to other systems or components.
+        2.2 Product Functions
+            Provide a high-level summary of the system’s functionality.
+        2.3 User Characteristics
+            Describe the intended users and their characteristics.
+        2.4 Constraints
+            List any constraints (e.g., regulatory, technical, or business).
+        2.5 Assumptions and Dependencies
+            State any assumptions or dependencies.
+        2.6 Apportioning of Requirements
+            Identify requirements that may be deferred to future versions.
+    3. Specific Requirements
+        3.1 Functional Requirements
+            Describe the system’s functional requirements in detail.
+        3.2 Non-Functional Requirements
+            Describe the system’s non-functional requirements (e.g., performance, security, usability).
+        3.3 Interface Requirements
+            Define the system’s interfaces (e.g., user interfaces, APIs).
+        3.4 System Attributes
+            Describe quality attributes (e.g., reliability, maintainability).
+        3.5 Verification and Validation Requirements
+            Specify how requirements will be verified and validated.
+    4. Appendices
+        4.1 Supporting Information
+            Include any additional information (e.g., diagrams, models, or analysis results).
+        4.2 Index
+            Provide an index for easy navigation of the document.
