@@ -1,0 +1,50 @@
+Based on the transcript, generate only Section 1 (Introduction) of the SRS as per IEEE 29148 in detail. Include all its subsections. Use assumptions where necessary and clearly mark them. Do not use table structures.
+1. Introduction
+    1.1 Purpose  
+        Describe the purpose of the SRS document.  
+    1.2 Scope  
+        Define the scope of the software system, including what is and is not included.  
+    1.3 Definitions, Acronyms, and Abbreviations  
+        Provide a glossary of terms, acronyms, and abbreviations used in the document.  
+    1.4 References  
+        List all referenced documents, standards, or regulations.  
+    1.5 Overview  
+        Provide a high-level overview of the document structure.
+
+Based on the transcript, generate only Section 2 (Overall Description) of the SRS as per IEEE 29148 in detail. Include all its subsections. Use assumptions where necessary and clearly mark them. Do not use table structures.
+2.1 Product Perspective  
+        Describe the system’s relationship to other systems or components.  
+    2.2 Product Functions  
+        Provide a high-level summary of the system’s functionality.  
+    2.3 User Characteristics  
+        Describe the intended users and their characteristics.  
+    2.4 Constraints  
+        List any constraints (e.g., regulatory, technical, or business).  
+    2.5 Assumptions and Dependencies  
+        State any assumptions or dependencies.  
+    2.6 Apportioning of Requirements  
+        Identify requirements that may be deferred to future versions.
+
+Based on the transcript, generate only Section 3 (Specific Requirements) of the SRS as per IEEE 29148 in detail. Include all its subsections. Use assumptions where necessary and clearly mark them. Do not use table structures.
+3.1 Functional Requirements  
+        Describe the system’s functional requirements in detail. Each requirement must have,
+            -Requirement ID: [FR-XXX]  
+            -Description: [Detailed description of the requirement]  
+            -Priority: [High/Medium/Low]  
+    3.2 Non-Functional Requirements  
+        Describe the system’s non-functional requirements (e.g., performance, security, usability). Each requirement must have, 
+            -Requirement ID: [NFR-XXX]  
+            -Description: [Detailed description of the requirement]  
+            -Priority: [High/Medium/Low]   
+    3.3 Interface Requirements  
+        Define the system’s interfaces (e.g., user interfaces, APIs).  
+    3.4 System Attributes  
+        Describe quality attributes (e.g., reliability, maintainability).  
+    3.5 Verification and Validation Requirements  
+        Specify how requirements will be verified and validated.
+
+Based on the transcript, generate only Section 4 (Appendices) of the SRS as per IEEE 29148 in detail. Include all its subsections. Use assumptions where necessary and clearly mark them. Do not use table structures.
+4.1 Supporting Information  
+        Include any additional information (e.g., diagrams, models, or analysis results).  
+    4.2 Index  
+        Provide an index for easy navigation of the document.

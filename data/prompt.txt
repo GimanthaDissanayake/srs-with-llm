@@ -5,7 +5,7 @@ Instructions:
 1. Analyze the Template:
     Thoroughly review the SRS document template provided below. Ensure you understand the structure, sections, and the level of detail required for each section.
 2. Review Meeting Transcripts:
-    Carefully analyze the attached meeting transcripts, which will me mentioned after the instructions as dialogues between people from the meeting. Extract all relevant information, including functional and non-functional requirements, user characteristics, constraints, assumptions, and any other details necessary to populate the SRS document.
+    Carefully analyze the meeting transcripts that will be provided, Extract all relevant information, including functional and non-functional requirements, user characteristics, constraints, assumptions, and any other details necessary to populate the SRS document.
 3. Generate the SRS Document:
     Follow the template exactly and populate each section with the information extracted from the meeting transcripts. Use a formal and technical writing style, ensuring clarity, precision, and completeness.
 4. Handling Missing Information:
